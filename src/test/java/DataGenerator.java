@@ -1,5 +1,3 @@
-package ru.netology;
-
 import io.restassured.builder.RequestSpecBuilder;
 import io.restassured.filter.log.LogDetail;
 import io.restassured.http.ContentType;
