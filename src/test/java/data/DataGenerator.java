@@ -1,10 +1,11 @@
+package data;
+
+import com.github.javafaker.Faker;
 import io.restassured.builder.RequestSpecBuilder;
 import io.restassured.filter.log.LogDetail;
 import io.restassured.http.ContentType;
 import io.restassured.specification.RequestSpecification;
-import com.github.javafaker.Faker;
 import lombok.Value;
-import net.bytebuddy.build.HashCodeAndEqualsPlugin;
 
 import java.util.Locale;
 
